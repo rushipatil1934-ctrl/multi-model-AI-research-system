@@ -2,11 +2,6 @@
 
 ResearchMind is an AI-powered research assistant that automates the complete research workflow using multiple specialized AI agents. Instead of relying on a single LLM for every task, the system coordinates dedicated agents to search the web, extract information, generate structured research reports, and independently evaluate the quality of the generated content.
 
-## Live Demo
-
-🔗 https://multi-agent-research-system-zvf4.onrender.com/
-
----
 
 ## Features
 
@@ -65,11 +60,6 @@ The application consists of four specialized agents:
 - Tavily API
 - BeautifulSoup
 - Requests
-
-### Deployment
-- Render
-
----
 
 ## Project Structure
 
@@ -214,11 +204,8 @@ This project helped me gain practical experience with:
 
 ## Author
 
-**Vivek Kumar**
+**Rushikesh patil**
 
-GitHub: https://github.com/VIVEK-4798
-
-LinkedIn: https://www.linkedin.com/in/<your-linkedin-profile>
 
 ---
 
