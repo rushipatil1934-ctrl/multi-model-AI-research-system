@@ -12,7 +12,6 @@ ResearchMind is an AI-powered research assistant that automates the complete res
 - Independent AI critic that reviews and scores reports
 - Downloadable Markdown reports
 - Clean and responsive Streamlit interface
-- Deployed on Render
 
 ---
 
